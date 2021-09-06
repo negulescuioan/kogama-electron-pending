@@ -1,0 +1,19 @@
+{
+  "name": "electron",
+  "version": "0.0.1",
+  "description": "Desktop version of KoGaMa",
+  "main": "app.js",
+  "scripts": {
+    "test": "debuger",
+    "start": "electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Upset2000/kogama-electron"
+  },
+  "keywords": [
+    "kgm"
+  ],
+  "author": "Upset2000",
+  "license": "LICENSE"
+}
